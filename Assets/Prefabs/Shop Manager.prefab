@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3415603388469835955
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3415603388469835954}
+  - component: {fileID: 3415603388469835953}
+  m_Layer: 0
+  m_Name: Shop Manager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3415603388469835954
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3415603388469835955}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3415603388469835953
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3415603388469835955}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ed1ce5b2245c0b4abbb2ab7397bb302, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  datas:
+  - {fileID: 11400000, guid: 93774e1ef602f4f4696f3ff0e2eba59b, type: 2}
+  - {fileID: 11400000, guid: c9065e01525e22d4591ceace4b1ae45c, type: 2}
+  - {fileID: 11400000, guid: e3b228f8a946da34c8ebf1ff94a3ec78, type: 2}
+  - {fileID: 11400000, guid: 6434c928c78c71d459d05fc0c79d5c19, type: 2}
+  - {fileID: 11400000, guid: 6527a7aad29746e45957673d0a19b5b7, type: 2}
+  - {fileID: 11400000, guid: 388fdf428935b2342b699529f5b35925, type: 2}
+  - {fileID: 11400000, guid: 66055f7b0c5f77640bf2a80858705162, type: 2}
+  - {fileID: 11400000, guid: 8963c015c102d9e45ab5a43456a3f44d, type: 2}
+  - {fileID: 11400000, guid: 2eb48075c27fa4d4dbfde6b4d3272766, type: 2}
+  - {fileID: 11400000, guid: ca92a8da3cb59c84882b263d0ec14475, type: 2}
+  - {fileID: 11400000, guid: 030f044b5dafd7f4a8582297bda213d9, type: 2}
+  - {fileID: 11400000, guid: 20c9a5eed9dc4d5409db18d2477eceb7, type: 2}
+  - {fileID: 11400000, guid: 56d37ce0e2fa0304bb7fa2dcb7ee1a8b, type: 2}
+  - {fileID: 11400000, guid: 411733adc2f5e1547bae74df0ff4c66b, type: 2}
+  - {fileID: 11400000, guid: 1f970a5a10cd48c48be17a1042677720, type: 2}
+  - {fileID: 11400000, guid: 1e89dae766a45c240876426a5557299c, type: 2}
+  - {fileID: 11400000, guid: b460bf2d9c0d56d4685a194521c3422e, type: 2}
+  - {fileID: 11400000, guid: f998f6ac6a8e60b4bb83bd6b4908d7fc, type: 2}
+  - {fileID: 11400000, guid: 06e96f151a5b97d44b0c16650d648dbc, type: 2}
+  - {fileID: 11400000, guid: 5ff4c1da7548db04ca4d772bbb51f9c9, type: 2}
+  - {fileID: 11400000, guid: 6ecf7242dfc97ed4ba43953f71ad81bf, type: 2}
+  - {fileID: 11400000, guid: 65574197d7875e24c9c943d526167638, type: 2}
+  - {fileID: 11400000, guid: cecc5317552d33540823aa689f405698, type: 2}
+  - {fileID: 11400000, guid: 49e8f04cfbc6198489f5c1466dedec90, type: 2}
+  card: {fileID: 4043748338467881356, guid: e6ac53f17e1ec534596cdade5d222583, type: 3}
+  cardContent: {fileID: 0}
